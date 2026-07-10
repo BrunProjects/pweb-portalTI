@@ -36,7 +36,6 @@ Como proposta de Produto Mínimo Viável (MVP), o portal demonstra alta viabilid
 
 ###  Diferenciais e Desafios Extras Implementados (+1,0 Ponto)
 * [x] **Dark Mode Toggle:** Chaveamento de variáveis CSS Globais para inversão harmônica de cores.
-* [x] **Menu Hambúrguer:** Responsividade móvel nativa ativada por gatilho de clique.
 * [x] **Carrossel na Galeria de Projetos:** Sistema interativo de navegação com botões anteriores/próximos para os projetos da Fábrica de Software, Robótica e OBI.
 
 ## Organização do Repositório (Estrutura de Pastas)

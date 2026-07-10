@@ -1,0 +1,44 @@
+[
+  {
+    "nome": "Sueide dos Santos Alves",
+    "formacao": "Especialista em Engenharia de Software",
+    "disciplinas": "Programação Web I, Programação Web II, Projeto de Interface & UX, Sistemas Operacionais, Programação para Dispositivos Móveis",
+    "foto": "imagens/professores/sueide.png",
+    "lattes": "http://lattes.cnpq.br/8580458225772122"
+  },
+  {
+    "nome": "Francisco Kelsen de Oliveira",
+    "formacao": "Doutor em Ciências da Computação",
+    "disciplinas": "Administração e Segurança de Redes",
+    "foto": "imagens/professores/kelsen.png",
+    "lattes": "http://lattes.cnpq.br/9442744282313681"
+  },
+  {
+    "nome": "Orlando Silva de Oliveira",
+    "formacao": "Doutor em Letras",
+    "disciplinas": "Algorítmos, ",
+    "foto": "imagens/professores/orlando.png",
+    "lattes": "http://lattes.cnpq.br/5758552337133777"
+  },
+  {
+    "nome": "Márcio Matheus de Souza Ferreira",
+    "formacao": "Especialista em Tecnologias para Aplicações Web",
+    "disciplinas": "Linguagem de Programação",
+    "foto": "imagens/professores/marcio.png",
+    "lattes": "http://lattes.cnpq.br/1824094033848929"
+  },
+  {
+    "nome": "Marcelo Anderson Batista dos Santos",
+    "formacao": "Doutor em Ciências da Computação",
+    "disciplinas": "Inteligência Artificial, Redes de Computadores",
+    "foto": "imagens/professores/marcelo.png",
+    "lattes": "http://lattes.cnpq.br/4971858553733251"
+  },
+  {
+    "nome": "Daniele Alves Souza",
+    "formacao": "Mestre em Robótica e Automação",
+    "disciplinas": "Matemática Aplicada, Probabilidade e Estatística",
+    "foto": "imagens/professores/daniele.png",
+    "lattes": "http://lattes.cnpq.br/8923491927561251"
+  }
+]

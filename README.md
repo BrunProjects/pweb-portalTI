@@ -4,7 +4,7 @@
 Este portal é uma solução web institucional responsiva desenvolvida como Atividade Prática para a disciplina de Programação Web I. O objetivo principal é centralizar a divulgação dos cursos, corpo docente, projetos e notícias da Área de Tecnologia da Informação do Campus Salgueiro.
 
 ## Identificação dos Desenvolvedores
-* **Estudante(s):** [Insira seu Nome Completo Aqui]
+* **Estudante(s):** Bruno Alencar Magalhães
 * **Curso:** Tecnologia em Sistemas para Internet / Técnico em Informática
 * **Componente Curricular:** Programação Web I
 * **Instituição:** Instituto Federal do Sertão Pernambucano - Campus Salgueiro
